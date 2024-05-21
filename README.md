@@ -22,4 +22,6 @@ This project focuses on object detection using the YOLOv9 architecture enhanced 
 
 ## Results
 - **Object Detection**: The YOLOv9_CBAM model effectively detects and identifies objects, leveraging the enhanced attention mechanism provided by CBAM for improved accuracy and reliability.
- - ![Example](https://i.ibb.co/XsxSNX5/fr.png)   
+ - ![Example](https://i.ibb.co/XsxSNX5/fr.png)
+ - ![Example](https://i.ibb.co/LPZwrC1/fu.png)
+
